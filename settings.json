@@ -1,0 +1,39 @@
+{
+    "StudiomdlPath":  "D:\\SteamLibrary\\steamapps\\common\\csgo legacy\\bin\\studiomdl.exe",
+    "HlmvPath":  "D:\\SteamLibrary\\steamapps\\common\\Counter-Strike Global Offensive 745\\bin\\hlmv.exe",
+    "GamePath":  "D:\\SteamLibrary\\steamapps\\common\\csgo legacy\\csgo",
+    "Models":  [
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\grievous\\Properties\\grievous_leroux.qc",
+                       "Name":  "grievous"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\marshmello\\properties\\pentamarshmello.qc",
+                       "Name":  "marshmello"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\maverick\\properties\\maverick_leroux.qc",
+                       "Name":  "maverick"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\valorant\\properties\\jett\\leroux_jett.qc",
+                       "Name":  "valorant - jett"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\valorant\\properties\\omen\\leroux_omen.qc",
+                       "Name":  "valorant - omen"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Oyuncu Modelleri\\valorant\\properties\\phoenix\\leroux_phoenix.qc",
+                       "Name":  "valorant - phoenix"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Decompiled\\cyberpunk\\cyberpunk.qc",
+                       "Name":  "cyberpunk"
+                   },
+                   {
+                       "QcPath":  "D:\\Masaüstü\\CSGO PLUGİN\\leroux\\Leroux Model\\Decompiled\\komikon\\komutcu_iconu.qc",
+                       "Name":  "komikon"
+                   }
+               ]
+}
